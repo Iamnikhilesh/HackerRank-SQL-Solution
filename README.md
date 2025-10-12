@@ -10,12 +10,12 @@ I’ve created this repository to practice SQL, improve my database querying ski
 ## 📂 Folder Structure
 
 HackerRank-SQL-Solutions/
-├── Basic Select/ # Basic SELECT statements
-├── Advanced Select/ # Subqueries, filtering, CASE
-├── Aggregation/ # COUNT, SUM, AVG, GROUP BY
-├── Basic Join/ # INNER JOIN, LEFT JOIN
-├── Advanced Join/ # Nested JOINs, multiple tables
-└── Alternative Queries/ # Other or optimized solutions
+   ├── Basic Select/ # Basic SELECT statements
+   ├── Advanced Select/ # Subqueries, filtering, CASE
+   ├── Aggregation/ # COUNT, SUM, AVG, GROUP BY
+   ├── Basic Join/ # INNER JOIN, LEFT JOIN
+   ├── Advanced Join/ # Nested JOINs, multiple tables
+   └── Alternative Queries/ # Other or optimized solutions
 
 ---
 
