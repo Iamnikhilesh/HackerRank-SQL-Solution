@@ -19,6 +19,8 @@ HackerRank-SQL-Solutions/
 └── Alternative Queries/    # Other or optimized solutions
 ```
 
+---
+
 ## 🚀 Why This Repository?
 
 - ✅ Practice and master SQL from beginner to advanced level
@@ -44,9 +46,9 @@ HackerRank-SQL-Solutions/
    
 2. Navigate into a folder to view solutions:
 
-  ```bash
-  cd HackerRank-SQL-Solutions/Aggregation
-```
+   ```bash
+   cd HackerRank-SQL-Solutions/Aggregation
+   
 3. Open .sql files with your preferred code editor or SQL IDE.
 
 🙌 Acknowledgments
@@ -59,4 +61,4 @@ This project is licensed under the MIT License.
 🔗 Connect with Me
 
 🌐 GitHub: [Iamnikhilesh](https://github.com/Iamnikhilesh)
-💼 LinkedIn: [your-linkedin](https://www.linkedin.com/in/nikhilesh-anamanla-33b779354/)
+💼 LinkedIn: [Nikhilesh_Anamanla](https://www.linkedin.com/in/nikhilesh-anamanla-33b779354/)
