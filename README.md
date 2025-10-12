@@ -55,10 +55,7 @@ HackerRank-SQL-Solutions/
 Huge thanks to HackerRank for providing these problems.
 Inspired by the community of developers solving and sharing their learning journeys.
 
-📄 License
-This project is licensed under the MIT License.
-
 🔗 Connect with Me
 
-🌐 GitHub: [Iamnikhilesh](https://github.com/Iamnikhilesh)
+🌐 GitHub: [Iamnikhilesh](https://github.com/Iamnikhilesh) 
 💼 LinkedIn: [Nikhilesh_Anamanla](https://www.linkedin.com/in/nikhilesh-anamanla-33b779354/)
